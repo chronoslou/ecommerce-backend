@@ -2,6 +2,8 @@
 
 ## Live Link:
 
+https://github.com/chronoslou/ecommerce-backend
+
 ## Description
 
 This is an app for the back end for an e-commerce site. It will work with Express.js API and will use Sequelize to interact with a MySQL database.
